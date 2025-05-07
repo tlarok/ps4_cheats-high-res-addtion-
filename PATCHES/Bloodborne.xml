@@ -1646,6 +1646,7 @@
     </Metadata>
     <Metadata Title="Bloodborne"
               Name="Resolution Patch (2560x1440)"
+              Note="Requires 'isDevKit = true' in the shadPS4 config. Needed for resolution patches above 1080p"
               Author="xzy"
               PatchVer="1.0"
               AppVer="01.09"
@@ -1681,7 +1682,7 @@
     </Metadata>
     <Metadata Title="Bloodborne"
               Name="Resolution Patch (3200x1800)"
-              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk"
+              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk. Requires 'isDevKit = true' in the shadPS4 config. Needed for resolution patches above 1080p"
               Author="xzy"
               PatchVer="1.0"
               AppVer="01.09"
@@ -1717,7 +1718,7 @@
     </Metadata>
     <Metadata Title="Bloodborne"
               Name="Resolution Patch (3840x2160)"
-              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk"
+              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk. Requires 'isDevKit = true' in the shadPS4 config. Needed for resolution patches above 1080p"
               Author="xzy"
               PatchVer="1.0"
               AppVer="01.09"
@@ -1753,7 +1754,7 @@
     </Metadata>
     <Metadata Title="Bloodborne"
               Name="Resolution Patch (7680x4320)"
-              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk"
+              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk. Requires 'isDevKit = true' in the shadPS4 config. Needed for resolution patches above 1080p"
               Author="xzy"
               PatchVer="1.0"
               AppVer="01.09"
@@ -1858,6 +1859,7 @@
     </Metadata>
     <Metadata Title="Bloodborne"
               Name="Resolution Patch (2560x1080) (21:9 2.37)"
+			  Note="Requires 'isDevKit = true' in the shadPS4 config. Needed for resolution patches above 1080p"
               Author="xzy"
               PatchVer="1.0"
               AppVer="01.09"
@@ -1894,7 +1896,7 @@
     </Metadata>
     <Metadata Title="Bloodborne"
               Name="Resolution Patch (3440x1440) (21:9 2.38)"
-              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk"
+              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk. Requires 'isDevKit = true' in the shadPS4 config. Needed for resolution patches above 1080p"
               Author="xzy"
               PatchVer="1.0"
               AppVer="01.09"
@@ -1931,7 +1933,7 @@
     </Metadata>
     <Metadata Title="Bloodborne"
               Name="Resolution Patch (3840x1080) (32:9 ~3.55)"
-              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk"
+              Note="Resolutions above 1080p can break the game (missing geometry, invisible enemies, crashes) because of PS4 memory limitation. Use them at your own risk. Requires 'isDevKit = true' in the shadPS4 config. Needed for resolution patches above 1080p"
               Author="xzy"
               PatchVer="1.0"
               AppVer="01.09"
